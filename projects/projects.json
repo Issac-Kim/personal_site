@@ -2,6 +2,7 @@
   "projects": [
     {
       "name": "BeirRun",
+      "home_link": "BeirRun/BeirRun/index.html",
       "date": "month 2019 - month 2019/active",
       "github_link": "",
       "description": "",
@@ -12,7 +13,7 @@
       "date": "month 2019 - month 2019/active",
       "github_link": "",
       "description": "",
-      "role": ""    
+      "role": ""
     }
   ]
 }
