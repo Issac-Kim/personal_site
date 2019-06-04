@@ -6,8 +6,7 @@ app = Flask(__name__)
 # renders a static web page
 @app.route("/")
 def home():
-    return "i"
-    #return render_template("index.html")
+    return render_template("index.html")
 
 # route for projects page
 # opens up projects.json and dynamically populates page with different projects using jinja
